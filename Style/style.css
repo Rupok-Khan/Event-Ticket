@@ -1,0 +1,171 @@
+ body{
+    padding: 0;
+    margin: 0;
+ }
+ .navbar-nav{
+    margin-left: auto;
+    color:white;
+
+} 
+.nav-link{
+    font-size: 1.7rem;
+}
+.login{
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 5px;
+    padding-bottom:6px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgb(4, 80, 4);
+    color: white;
+}
+.head{
+    background-image: url("/background.png");
+    background-repeat: no-repeat;
+    width:100%;
+   
+   
+}
+.photo1 img{
+    padding-top: 30px;
+    height:100%;
+    width:100%;
+}
+
+.btn2{
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color: #F5167E;
+    color: white;
+}
+.btn3{
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: #5522CC;
+    margin-left: 10px;
+}
+#text1{
+    padding-left: 50px;
+    padding-top:90px;
+    padding-bottom: 120px;
+    padding-left: 40px;
+  
+    
+}
+.box{
+    height: 100px;
+    width: 80%;
+    background-color: #242565;
+    padding-left:50px;
+    margin: auto;
+    border-radius: 15px;
+    position: relative;
+    z-index: 1;  
+    margin-top: -10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.first{
+    text-align:left;
+    
+}
+.second{
+    text-align:left;
+   
+}
+.third{
+    text-align: left;
+   
+}
+#text3{
+    color: #242565;
+}
+.box1{
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    text-align: center;
+    padding-right: 40px;
+
+}
+.btn{
+    background-color: rgb(201, 228, 228);
+    border: none;
+}
+#dropdownMenu2{
+    background-color: rgb(204, 231, 231);
+    
+}
+#dropdown1{
+    padding-bottom: 20px;
+}
+.box2{
+    padding: 50px;
+    
+}
+.card-body{
+    display: flex;
+    
+}
+.title{
+    padding-right:10px;
+}
+.title p{
+    color: #5522CC;
+}
+#row2{
+    padding-top: 20px;
+}
+.btn9{
+    text-align: center;
+    padding-bottom: 40px;
+
+
+}
+#btn6{
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color: #4616f5;
+    color: white;
+}
+
+#car1{
+    padding-bottom: 30px;
+    
+}
+.box3{
+    padding-bottom: 50px;
+    background-color: #EEE1FF;
+}
+#text5{
+    text-align:left;
+    padding-top: 150px;
+}
+#text5{
+    padding-left: 50px;
+}
+#btn10{
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    border-radius: 20px;
+    border: none;
+    background-color: #4616f5;
+    color: white;
+}
